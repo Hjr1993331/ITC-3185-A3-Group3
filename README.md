@@ -1,6 +1,6 @@
 # ITC-3185-A3-Group3
 Repo for assignment a:3
-## Team 9
+## Team 3
 
 1. AHMED HAMAD
 2. OMURBEK MAMASALIEV
